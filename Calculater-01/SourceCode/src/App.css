@@ -1,0 +1,36 @@
+
+.keypad{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    margin-top: 10px;
+  
+
+}
+
+.screen{
+background-color: rgba(240, 248, 255, 0.46);
+font-weight: bold;
+padding: 10px;
+
+}
+
+button{
+    width:106px; 
+    height: 50px;
+    font-weight: bold;
+    background-color: rgba(250, 235, 215, 0.668);
+}
+
+
+input{
+    width: 400px;
+    height: 80px;
+}
+
+.containerx{
+    margin: auto;
+    padding-top: 10%;
+    text-align: center;
+    width: 100%;
+}

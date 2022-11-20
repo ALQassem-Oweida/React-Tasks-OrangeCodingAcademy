@@ -1,0 +1,24 @@
+
+
+.all {
+margin: 3%;
+
+}
+
+.container {
+  border: 1px dashed rgb(0, 0, 0);
+  padding: 50px;
+  flex-direction: column;
+  font-size: 20px;
+}
+
+.lix{
+  width: 90%;
+}
+
+.item{
+
+  background-color: darkgrey;
+  padding: 30px;
+
+}

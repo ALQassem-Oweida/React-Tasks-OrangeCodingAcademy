@@ -1,0 +1,21 @@
+.add{
+  background-color: rgba(240, 248, 255, 0.268);
+  padding: 40px;
+  border-radius: 20px;
+
+}
+
+i{
+  color: red;
+}
+
+.mybutton{
+  background-color: none;
+  border: none;
+}
+
+.listcont{
+  background-color: rgb(255, 255, 255);
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
